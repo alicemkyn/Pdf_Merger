@@ -1,4 +1,4 @@
-from PyPDF2 import PdfFileMerger 
+''' from PyPDF2 import PdfFileMerger 
 # pip install PyPDF2
 
 merger = PdfFileMerger()
@@ -9,4 +9,4 @@ for pdf_file in pdf_files:
     merger.append(pdf_file)
 
 merger.write("merged_pdf.pdf")
-merger.close()
+merger.close() '''
